@@ -12,7 +12,9 @@ export function Widget(){
       <div>
         <div className="bg-zinc-900 px-5 py-2 text-sm text-zinc-400">Recentes</div>
       </div>
-      
+         <div className="bg-zinc-800 px-8 py-4 flex items-start gap-6">
+          
+         </div>
     </div>
     
   )
